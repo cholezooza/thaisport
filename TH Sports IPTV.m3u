@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF :0, Live! J-League
+#EXTINF:0, Live! J-League
 https://m.youtube.com/watch?v=1QWQRAQd1Ss
+#EXTINF:0, CH 7 HD
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:0,Thai ไทยรัฐ TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:0,PPTV HD
