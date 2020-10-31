@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF : -1, Live! J-League
+#EXTINF :0, Live! J-League
 https://m.youtube.com/watch?v=1QWQRAQd1Ss
 #EXTINF:0,Thai ไทยรัฐ TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
