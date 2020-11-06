@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 1
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14980
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 2
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14982
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 3
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14984
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 4
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14986
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 5
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14988
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 6
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14990
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 7
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14992
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 8
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14994
+
+#EXTINF:0 tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 9
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14996
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports10.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 10
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/14998
+
+#EXTINF:22 tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 11
+#EXTVLCOPT:network-caching=1000
+http://tv.iptvstack.net:80/PXhh0rD903/QAjRAZ387/15000
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 12
+#EXTVLCOPT:network-caching=1000
+https://edge-n7.worldwidetv.club/DDJmNHWy7RGIk_CxjZLWWw/1604679562/live-o33-abr/hd-bein12/liveorigin/hd-bein12_480/chunks.m3u8
