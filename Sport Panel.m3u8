@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" group-title="Live: True Sport",EPL 1
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" group-title="Live: True Sport",EPL 2
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" group-title="Live: True Sport",TRUE SPORT HD 1
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" group-title="Live: True Sport",TRUE SPORT HD 2
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" group-title="Live: True Sport",TRUE SPORT HD 3
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" group-title="TLive: rue Sport",TRUE SPORT HD 4
+https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" group-title="Live: True Sport",TRUE SPORT 2
+https://doofootball.livestream-cdn.com/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/lPB8X3Ib9Ty7s5kuxn4b9ZSDhP7x84qKYinxdO4j.png" group-title="Live: True Sport",TRUE SPORT  5
+https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/n3ke2CU0YHdnMFRPwf5N5lT4ebQ7W43dncgIahDZ.png" group-title="Live: True Sport",TRUE SPORT 6
+https://doofootball.livestream-cdn.com/iptv/sd-tsport6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/m7B6xwNTlvbHLhSjGCdETasrb0dAzV55DBs5aUEv.png" group-title="Live: True Sport",TRUE SPORT 7
+https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png" group-title="Live: True Sport",FOX SPORTS 1
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png" group-title="Live: True Sport",FOX SPORTS 2
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png" group-title="Live: True Sport",FOX SPORTS 3
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports3.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/Eurosport1UK.png" group-title="Live: EURO SPORT Group",EURO SPORT 1
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-eurosport1.stream/playlist.m3u8
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/Eurosport2UK.png" group-title="Live: EURO SPORT Group",EURO SPORT 2
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-eurosport2.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/BTSport1HD.png" group-title="Live: BT SPORT Group",BT SPORT 1
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/BTSport2HD.png" group-title="Live: BT SPORT Group",BT SPORT 2
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/BTSport3HD.png" group-title="Live: BT SPORT Group",BT SPORT 3
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsEpl.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS EPL
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsPremiere.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS PREMIER
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-premiersports.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsAction.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS ACTION
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsArena.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS ARENA
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsFootball.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS FOOTBALL
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsMix.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS MIX EVENT
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsMainEvent.png" group-title="Live: SKY SPORT Media Group",SKY SPORTS MAIN EVENT
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png" group-title="Live: SKY SPORT Media Group",SKY Bundesliga HD
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/de-skybundesliga.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 1
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 2
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/playlist.m3u8
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 3
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/playlist.m3u8
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 4
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 5
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/playlist.m3u8
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 6
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 7
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein7.stream/playlist.m3u8
+
+#EXTINF:23 tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 8
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein8.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 9
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/playlist.m3u8
+
+#EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports10.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 10
+#EXTVLCOPT:network-caching=1000
+https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/playlist.m3u8
+
+
+
