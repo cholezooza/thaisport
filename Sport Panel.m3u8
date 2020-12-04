@@ -118,3 +118,44 @@ https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/playlist.m3u8
 #EXTINF:24 tvg-logo="https://picon-13398.kxcdn.com/beinsports10.jpg" group-title="Live: beIN Media Group",beINSPORTS QATAR 10
 #EXTVLCOPT:network-caching=1000
 https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: United Kingdom",Sky Sports Action HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/3598
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: United Kingdom",Sky Sports Action UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14747
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="Live: United Kingdom",Sky Sports Arena FHD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/16969
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="Live: United Kingdom",Sky Sports Arena HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/16968
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg" group-title="Live: United Kingdom",Sky Sports Main Event HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/5600
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg" group-title="Live: United Kingdom",Sky Sports Main Event UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14753
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg" group-title="Live: United Kingdom",Sky Sports Cricket HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/5601
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg" group-title="Live: United Kingdom",Sky Sports Cricket UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14750
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="Live: United Kingdom",Sky Sports Football HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/20024
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="Live: United Kingdom",Sky Sports Football FHD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/16970
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg" group-title="Live: United Kingdom",Sky Sports Golf HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/3600
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg" group-title="Live: United Kingdom",Sky Sports Golf UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14744
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="Live: United Kingdom",Sky Sports Premier League HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/4458
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="Live: United Kingdom",Sky Sports Premier League UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14742
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsboxoffice-clivebesle.jpg" group-title="Live: United Kingdom",Sky Sports Box Office (Live During Events Only) UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14756
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="Live: United Kingdom",Sky Sports F1 HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/3603
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1.jpg" group-title="Live: United Kingdom",Sky Sports F1 UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14739
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="Live: United Kingdom",Sky Sports Mix HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14902
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg" group-title="Live: United Kingdom",Sky Sports Mix UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/14926
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg" group-title="Live: United Kingdom",Sky Sports News HD UK
+http://tv.refundoiptv.iptv.uno:80/ruEleAHG667/0yCPw74634/1954
